@@ -152,16 +152,11 @@ unsold tokens were burned. This was done for market management and for the benef
 investors.
 On 7 JULY 2021, 20,000,000 BEMTs were burned.
 Burning token links:
-1. https://tronscan.org/#/transaction/57b7b7b589df7a9b9e3c0706854346440ec40
-3d0185a4ae4b984bcea166324cd
-2. https://tronscan.org/#/transaction/5926289bffb53083c678d6a844585cf336eaaf7
-a88da338b30250eca2dd15f0c
-3. https://tronscan.org/#/transaction/1ab93113cf082d7c5157c9d5aa93a2f3565f61
-68a7c2203eaa7248f63ffdcff5
-4. https://tronscan.org/#/transaction/bd2d495d94bd431c4d44f840db448e668f010
-306e034d0d0501c9c132d9b1934
-5. https://tronscan.org/#/transaction/de4ccd1c636e4f39692fef470d756699ac09160
-2906074c195049b51d018166d
+1. https://tronscan.org/#/transaction/57b7b7b589df7a9b9e3c0706854346440ec403d0185a4ae4b984bcea166324cd
+2. https://tronscan.org/#/transaction/5926289bffb53083c678d6a844585cf336eaaf7a88da338b30250eca2dd15f0c
+3. https://tronscan.org/#/transaction/1ab93113cf082d7c5157c9d5aa93a2f3565f6168a7c2203eaa7248f63ffdcff5
+4. https://tronscan.org/#/transaction/bd2d495d94bd431c4d44f840db448e668f010306e034d0d0501c9c132d9b1934
+5. https://tronscan.org/#/transaction/de4ccd1c636e4f39692fef470d756699ac091602906074c195049b51d018166d
 
 ## BEM Blockchain 
  
