@@ -1,12 +1,24 @@
-# BEM
- BEM is a TRC20 token and is used for entrepreneurial jobs such as network marketing. The bem token will be used in nft projects, on-chain games, etc. soon.
-# BEM Foundation    
-The name of the token offered by BEM Foundation. The [BEMT](https://beminfo.io/) token is used instead of money for participants in all entrepreneurship and job creation plans and all programs designed by the foundation...
-A foundation consisting of ?blockchain specialists and experts in marketing and market creation.
+# Introduction
+ In this paper BEMT token is explained along with its founding goals, technical 
+specifications, terminologies and future plans.
+## BEM Foundation    
+The Best Economic Money Foundation
+
+The BEM Foundation is made up of experts in the field of Cryptocurrency, Programming and 
+
+Marketing. Each of these individuals has several years of work experience in defined fields.
+
+The identities of these individuals will not be revealed based on the principles and spirit of 
+
+decentralization, Blockchain and raising the security level of projects.
+
+The BEM Foundation was formed with the goal of Entrepreneurship on the Blockchain and 
+
+its global development.
 
  ![BEMT Logo s](https://coin.top/production/upload/logo/TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW.jpeg?t=1604831238622)
-#  BEMT token
-BEMT stands for ‘Best Economic Money Token’.
+## Blockchain
+BEMT stands for â€˜Best Economic Money Tokenâ€™.
 BEMT is a token that was launched on the Tron [Blockchain](https://tronscan.io/#/). BEMT is a  token. BEMT has inherited all features of TRX, its most remarkable ones being high transaction speed and low transaction costs.
 Total Supply : 30,000,000
 BEMT has 6 decimal digits like TRX.
@@ -17,19 +29,45 @@ Contract Address : [TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW](https://tronscan.io/#/to
 BEMT Release Date in November 8, 2020 .
 The BEM Foundation has considered 2 time periods for distribution of BEMT tokens in the markets. Advance Sales: 20 days It starts at 12:00 GMT on November 8, 2020 and lasts until 12:00 GMT on November 27, 2020. 
 
-# Who are the creators of BEMT?
+## Blockchain
 
-In the world of blockchain , and particularly concerning cryptocurrency , the first principle is to protect identities and secrets of assets and inventories, with the purpose of protecting people’s interests from any risk.
-Activities of BEM Foundation are mostly focused on entrepreneurship and job creation , and identities of the token creators have to be kept hidden in order to protect the interests of participants and investors and prevent the projects from any kind of risk.The identities of BEMT creators is not officially disclosed. It suffices to know that they are experts on markets and blockchain technology, and have participated in several other successful projects, the names of which cannot be disclosed due to the risk of interference with other projects or digital currencies. The validity of a token is defined by its activity type, progress and expansion of programs, future plans and compliance with them. BEM Foundation is a self-sufficient organization that does not rely on any country, state, organization or person of any kind. All BEM projects are funded first by members’ primary investments and then by BEMT sales. This process raises the innate value of the foundation and the token very much, because the rising of the value of this token then depends on efforts dedicated to make it more valuable not on any person or special program. Developers and members of the foundation willing to own BEMT shall have to buy it from projects or money exchangers at the same approved prices, and no BEMT shall be put aside for special people or managers. Frankly, all distributions of career platforms will be managed by [smart contract](https://en.wikipedia.org/wiki/Smart_contract) and [DEFI](https://www.coindesk.com/what-is-defi) projects. All projects will be of open source type. 
+A blockchain will allow the data held in that database to be spread out among several 
+network nodes at various locations. This not only creates redundancy but also maintains the 
+fidelity of the data stored therein, for example, if somebody (a node) tries to alter a record 
+at one instance of the database, the other nodes would not be altered and so would prevent 
+a bad actor from doing so. 
+Also, the bad actor with incorrect data will easily be pinpointed and remedies to prevent 
+malevolent actions will be placed. This system helps to establish an exact and transparent 
+order of events. This way, no one node within the network can alter information held within 
+it.
+In a blockchain, the record could be a list of transactions (such as with a cryptocurrency), 
+but it also is possible for a blockchain to hold a variety of other information like legal 
+contracts, state identifications, or a companyâ€™s product inventory which makes it possible to 
+implement lots of innovative ideas upon this technology.
+## POA â€“ Proof of Authority
+BEMPIRE uses a POA consensus algorithm. The term POA or Proof of Authority was coined 
+in 2017 by Gavin wood the co-founder of Ethereum and Parity Technologies. The POA 
+consensus allows the blockchain to have high-speed transactions and a low cost.
+In blockchain platforms, consensus about the validity of a transaction or data could be 
+reached with a different kind of mechanism. POA is an algorithm used in blockchains as a 
+permissioned consensus mechanism which unlike, permissionless blockchains where 
+anyone can become a node, in permissioned blockchain all nodes are pre-selected. This 
+allows having consensus with high scalability and bandwidth. In addition to fast transaction 
+speed and affordability, the POA is very secure against DDoS (Distributed Denial-of-Service) 
+attack and also 51% attack.
 
-# RoadMap
-![BEMT RadMap](https://beminfo.io/images/raodmap1.png)
-# Job Opportunity in Blockchain with BEM Token:
-One of the most attractive careers in the world today is the Network Marketing business. This business has always had huge numbers of fans and audiences around the world. In the blockchain system though, 'networkMarketing' is different from its real world counterpart. In the real spaces of counties, network marketing is always around a product or a service. In fact, they distribute products in markets and among customers with their special way of selling. 
-But in blockchain the products are new tokens or currencies temporarily frozen with benefits; and money making plans are put in place for visitors, leaders, instructors and developers of that network marketing platforms. 
-One of the most favored network marketing plans is the binary plan in which all members of the sales organization are beneficiaries and sales in that plan are stored for them. This plan is not implemented by smart contracts due to the huge number of people and calculations, but in regular sites it faces changes in policies and strategies by company managers or owners. 
-Although BEM Foundation has made it possible with BEMT for people to work freely worldwide without any concern for any changes, ensured that their identities and financial secrets remain safe.
-By reading through the [WhitePaper](https://beminfo.io/files/whitepaper.pdf), a BEM Foundation project, you will get a very good knowledge of the unlimited money making plan, and of course the above arguments.
+## Smart Contract
+
+Smart contracts are computer programs that are hosted and executed on blockchain 
+networks. Each smart contract contains a code that specifies a predetermined condition that, 
+if fulfilled, will yield predefined results. By running on a decentralized blockchain instead of 
+a centralized server, smart contracts allow multiple parties to reach a common shared result 
+accurately, in a timely manner and without manipulation.
+Smart contracts are a powerful infrastructure for automation because they are not 
+controlled by a central administrator and are not vulnerable to attacks by malicious entities 
+from a single point. When applied to multilateral digital contracts, smart contract 
+applications can reduce counterparty risk, increase efficiency, reduce costs, and provide new 
+levels of process transparency.
 
 # Future Plans BEMT
 ### Cryptocurrency Exchange Platform:
