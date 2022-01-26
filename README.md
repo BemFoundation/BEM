@@ -296,11 +296,19 @@ the latest technologies and the best economic money.
 # Social Networks
 
 Official website: https://beminfo.io 
+
  Official blog: https://blog.beminfo.io
+
  Telegram channel: https://T.me/bemtokeninfo
+
  Telegram group: https://T.me/bemtoken
+
  Instagram: https://instagram.com/bemtoken
+
  Twitter: https://twitter.com/beminfos
+
  Facebook: https://facebook.com/bemt.token
+
  Github: https://github.com/BemFoundation/BEM
+
  Coin Market Cap: https://coinmarketcap.com/currencies/bem/
